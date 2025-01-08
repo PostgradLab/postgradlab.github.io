@@ -43,6 +43,6 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-22.04
     steps:
-      - name: Deploy to assests
+      - name: Deploy assets
         id: deployment
         uses: actions/deploy-pages@v4
