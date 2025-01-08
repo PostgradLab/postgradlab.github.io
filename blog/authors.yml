@@ -1,0 +1,12 @@
+rajesh:
+  name: Rajesh Ramesh
+  title: SW Engineer
+  url: https://rajesh-ramesh-ind.github.io
+  image_url: https://avatars.githubusercontent.com/u/34510099?v=4
+  # page:
+  #   # customize the url of the author page at /blog/authors/<permalink>
+  #   permalink: '/all-sebastien-lorber-articles'
+  socials:
+    x: rajesh_ramesh_
+    linkedin: rajesh-ramesh-ind
+    github: rajesh-ramesh-ind
